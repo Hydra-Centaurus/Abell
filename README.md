@@ -1,4 +1,4 @@
-Milkyway
+Abell
 ========
 
-H2G2 Game Manager
+Hydra-Centaurus Game Manager
